@@ -18,7 +18,7 @@ print(s1)
 
 line = 'aaa,bbb,ССС,dd'
 
-print(line.split(','))  # вернет список
+print(line.split(','))  # разделит и вернет список
 
 print(line.upper())  # вернет верхний регистр
 print(line.lower())  # вернет нижний регистр
